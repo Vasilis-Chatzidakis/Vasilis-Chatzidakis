@@ -7,5 +7,5 @@ Proficient in HTML, CSS(SASS/SCSS), and JavaScript for Web Development, along wi
 I am passionate about programming and committed to continuously growing my knowledge in digital technologies through personal projects and seminars. 
 
 <!--GitHub stats-->
-![Vasilis-Chatzidakis GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&show_icons=true&theme=onedark)
+![Vasilis-Chatzidakis GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&show_icons=true&theme=tokyonight)
 
