@@ -35,4 +35,5 @@ I am passionate about programming and committed to continuously growing my knowl
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
