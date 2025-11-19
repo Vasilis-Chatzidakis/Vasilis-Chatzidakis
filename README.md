@@ -1,5 +1,9 @@
 # Hi, I'm Vasilis!
-I am an IT Applications Technician graduate specializing in Web Development as well as an undergraduate School of Production Engineering and Management in the Technical University of Crete. With one year of hands-on experience in Frontend Development. I have worked on real-world projects that strengthened my expertise in building responsive and user-friendly web interfaces using modern tools and methodologies.<br>Proficient in HTML, CSS(SASS/SCSS), and JavaScript for Web Development, along with practical knowledge of frameworks and libraries such as React(Redux,Router), Bootstrap, jQuery, TailwindCSS. I also have a solid foundation in Java, C/C++, Python, PHP, and SQL. Currently, I am expanding my expertise through professional seminars on React Query, Next.js and TypeScript.<br>I am passionate about programming and committed to continuously growing my knowledge in digital technologies through personal projects and seminars. 
+I am an IT Applications Technician graduate specializing in Web Development as well as an undergraduate School of Production Engineering and Management in the Technical University of Crete. With one year of hands-on experience in Frontend Development. I have worked on real-world projects that strengthened my expertise in building responsive and user-friendly web interfaces using modern tools and methodologies.
+
+Proficient in HTML, CSS(SASS/SCSS), and JavaScript for Web Development, along with practical knowledge of frameworks and libraries such as React(Redux,Router), Bootstrap, jQuery, TailwindCSS. I also have a solid foundation in Java, C/C++, Python, PHP, and SQL. Currently, I am expanding my expertise through professional seminars on React Query, Next.js and TypeScript.
+
+I am passionate about programming and committed to continuously growing my knowledge in digital technologies through personal projects and seminars. 
 
 
 ## Socials:
@@ -11,6 +15,3 @@ I am an IT Applications Technician graduate specializing in Web Development as w
 ![](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vasilis-Chatzidakis&icon=0&color=0)](https://visitcount.itsvg.in)
