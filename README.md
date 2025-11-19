@@ -6,7 +6,7 @@ Proficient in HTML, CSS(SASS/SCSS), and JavaScript for Web Development, along wi
 I am passionate about programming and committed to continuously growing my knowledge in digital technologies through personal projects and seminars. 
 
 
-## Socials:
+## Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vasileios-chatzidakis-580970334/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasilis.chatzidakis.00@gmail.com) 
 
 ## Tech Stack:
@@ -34,6 +34,6 @@ I am passionate about programming and committed to continuously growing my knowl
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
