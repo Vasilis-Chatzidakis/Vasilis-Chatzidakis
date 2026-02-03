@@ -34,7 +34,3 @@ I am passionate about programming and committed to continuously growing my knowl
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-Chatzidakis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
